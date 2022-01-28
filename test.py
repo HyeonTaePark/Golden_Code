@@ -1,8 +1,8 @@
 import pyupbit
 
 # 로그인 코드 
-access = "mpaED5oiKQDkhIIvweKOTH9WsnbIjywou7MCTCec"          
-secret = "veqYfo2ZVNFxYYex0hS5nsYXpGRspxnmyqpPfUCq"          
+access = ""          
+secret = ""          
 upbit = pyupbit.Upbit(access, secret)
 
 # 잔고 조회 
